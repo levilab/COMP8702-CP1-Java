@@ -18,8 +18,8 @@ public class Echo
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Enter a line of text:");
-
         message = scan.nextLine();
+
 
         System.out.println("You entered: \"" + message + "\"");
     }
