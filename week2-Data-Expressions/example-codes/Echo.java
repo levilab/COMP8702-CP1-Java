@@ -21,6 +21,6 @@ public class Echo
         message = scan.nextLine();
 
 
-        System.out.println("You entered: \"" + message + "\"");
+//        System.out.println("You entered: \"" + message + "\"");
     }
 }
